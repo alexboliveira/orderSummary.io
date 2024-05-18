@@ -137,9 +137,7 @@ article > div  a{
     font-weight: 900;
 }
 
-article > div > a:nth-of-type(2){
-    
-}
+
 article > div > a > button{
     display: flex;
     width: 100%;
